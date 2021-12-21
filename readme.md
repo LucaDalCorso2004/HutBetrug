@@ -62,13 +62,23 @@ public partial class Form1 : Form
     
 # Inhalt 2
     
- Dieser Code hat eine Wichtige Funktion bei Windows Form-App und zwar ist es nicht mehr so das man ein Programm aht sonderen mehrer Programm hat. Doch will man irgend wie die Daten von eine Form zur anderen Form bringen und für das ist dieser Code da. Um diese zu machen sind bestimmte Cods wichtig der erste ist `c# Form3 Highscores = new Form3(this);` der erlaubt es in die neu Form zu kommen udn zu estellen, auch muss ihre Varable oder was sie auf  die neu Form reintun wollen muss Public sein das jeder zugriff hat auf diese Dateien.  Der nachste wichtig Code ist der `   public Form1 daddy;` erlaubt Daten von Form 1 zuzugrefien. Weiter Code ist `dadyy.this = daddy`
+ Dieser Code hat eine Wichtige Funktion bei Windows Form-App und zwar ist es nicht mehr so das man ein Programm aht sonderen mehrer Programm hat. Doch will man irgend wie die Daten von eine Form zur anderen Form bringen und für das ist dieser Code da. Um diese zu machen sind bestimmte Cods wichtig der erste ist `Form3 Highscores = new Form3(this);` der erlaubt es in die neu Form zu kommen udn zu estellen, auch muss ihre Varable oder was sie auf  die neu Form reintun wollen muss Public sein das jeder zugriff hat auf diese Dateien.  Der nachste wichtig Code ist der `   public Form1 daddy;` erlaubt Daten von Form 1 zuzugrefien. Weiter Code ist `dadyy.this = daddy`
     Diese erlaubt jetzt das jede variablie mit daddy hat jetzt gleich viele wie die Form1. Ein Beipsile Code ist `daddy.anzConis` das erlaubt das dort die genau gleich anzhal von Conis steht wie bei Form1.
+    
+    
+  # Inhalt 3
+  ![image](https://user-images.githubusercontent.com/89087875/146945077-a5318922-7244-42a9-a9b8-fc4cd522ed75.png)
+  Das ist die erste Form.
+
+![image](https://user-images.githubusercontent.com/89087875/146945147-9d1d36db-c333-48e9-88e8-3182e306c75e.png)
+Das ist die Dritte Form.
+
+    
 
 # Verifikation, Reflektion +  Verbesserungen
 *Ziel 1 ereicht für was der Code gebraucht wird,wird im Inhalt zwei erklärt.
 *Ziel 2 ereicht ich konnte im Inhalt eins mit einem Text das Problem schieldern, wieso der Timer ins Hauptprogramm nicht rein kam.
-*Ziel 3 erreicht wie es funktionirt wird mit einem Video dargestellt
+*Ziel 3 erreicht wie es funktionirt wird mit einem Video dargestellt.
 
 *1 Ich konnte  in der Gruppe nicht viele helfen.
 *2 ich habe mich nicht gut auf den das codieren Konzentriren können , da immer mehre Idee kamen und so nicht auf meine Code konzentrien kann. 
