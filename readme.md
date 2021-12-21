@@ -60,7 +60,7 @@ public partial class Form1 : Form
     
     
     
-    #Inhalt 2
+# Inhalt 2
     Dieser Code hat eine Wichtige Funktion bei Windows Form-App und zwar ist es nicht mehr so das man ein Programm aht sonderen mehrer Programm hat. Doch will man irgend wie die Daten von eine Form zur anderen Form bringen und für das ist dieser Code da. Um diese zu machen sind bestimmte Cods wichtig der erste ist `c# Form3 Highscores = new Form3(this);` der erlaubt es in die neu Form zu kommen udn zu estellen, auch muss ihre Varable oder was sie auf  die neu Form reintun wollen muss Public sein das jeder zugriff hat auf diese Dateien.  Der nachste wichtig Code ist der `   public Form1 daddy;` erlaubt Daten von Form 1 zuzugrefien. Weiter Code ist `dadyy.this = daddy`
     Diese erlaubt jetzt das jede variablie mit daddy hat jetzt gleich viele wie die Form1. Ein Beipsile Code ist `daddy.anzConis` das erlaubt das dort die genau gleich anzhal von Conis steht wie bei Form1.
 
